@@ -1,0 +1,285 @@
+Manifest-Version: 1.0
+Application-Name: Java Integrated Remote Console
+Permissions: all-permissions
+Codebase: *
+Created-By: 1.4.2_19 (Sun Microsystems Inc.)
+
+Name: com/hp/ilo2/remcons/images/hp_logo_blue_lgs.png
+sha-256-Digest: KVKpOWU9hxkZ/fChWKenC/Q4NnoW9reOIdDNGp+GsBo=
+
+Name: com/hp/ilo2/remcons/images/ProtectFormHS.png
+sha-256-Digest: 8ui1F9hVUBdJaTDzluMIa0DNLD6xJl1Y8WHnn62BOd4=
+
+Name: com/hp/ilo2/virtdevs/DirectIO.class
+sha-256-Digest: 6lGoJZsWwb69+MU/EHxUWVFVxNuCcXmK/Mb5ZrvDwbc=
+
+Name: com/hp/ilo2/virtdevs/cdstart.gif
+sha-256-Digest: RZXIEg9Z2MlwBiE+ZeW0bUFy2lXqJB8RVmcD8GuX7dQ=
+
+Name: com/hp/ilo2/remcons/hotKeysDialog.class
+sha-256-Digest: oQfWlvQmoJtWiuhQ3Z1BhpuRjtl5QbCd0qAAEHmhZAg=
+
+Name: com/hp/ilo2/remcons/images/yellow.png
+sha-256-Digest: 5wBkOX55MuZJUGE7FNDQFDQrIcnE+6cd8NiET246oSs=
+
+Name: com/hp/ilo2/virtdevs/cpqma-x86-linux-32
+sha-256-Digest: t3lnqN542bUJhiClEXZo26oF3Y+qzlG3vZTVW/aOXlA=
+
+Name: com/hp/ilo2/remcons/VSeizeDialog.class
+sha-256-Digest: 4wXgZ9oucuroyj5bYS4LH4TIUiuuXZ7l40FbB8kasV0=
+
+Name: com/hp/ilo2/intgapp/jsonparser.class
+sha-256-Digest: JLtIuektbcrQg+v6h3s4DXmv0hcET2SVxRcuwSqGD1g=
+
+Name: com/hp/ilo2/remcons/images/reset.png
+sha-256-Digest: VAfaVa2YghfH1SCq1qplmEec3ZjVp02qRPbiaGiFfrI=
+
+Name: com/hp/ilo2/remcons/Timer.class
+sha-256-Digest: O0jeh5mkH8RwoPXNAdArYLxNO9z0bfvIDC/j1elcjAE=
+
+Name: com/hp/ilo2/remcons/telnet.class
+sha-256-Digest: 3XV+ucf+Z6jbIMRJoYLDVQOJ/ev4jzjO08fuJLt2zr0=
+
+Name: com/hp/ilo2/remcons/images/hp.jpg
+sha-256-Digest: /m+kBuken0E8pz0jxBGWIb4Lg3uWxc/nI2bl4Z5vRso=
+
+Name: com/hp/ilo2/remcons/images/Network.png
+sha-256-Digest: oswjoZekNKujJKXFYNsiktiCaQt/lfn+rjsb3fsuPMc=
+
+Name: com/hp/ilo2/remcons/URLDialog.class
+sha-256-Digest: b6hN3OYQ7UQNkKCwCG7IKvtssskRt5zJAK7mdoRB5qY=
+
+Name: com/hp/ilo2/remcons/images/green.png
+sha-256-Digest: jyZqbQ+ChImNEZFcYvg06HSopFLRVqczFlh6uOSMl20=
+
+Name: com/hp/ilo2/remcons/ToolTip.class
+sha-256-Digest: hAO8dihQ+QnflXLGhNLky+Q9ElPvCylPpCMOUO6+lXI=
+
+Name: com/hp/ilo2/remcons/images/off.png
+sha-256-Digest: P2mcODuRZHJSy2KnQHmOFGbq2GoBTs9CkSPdbHO9l+o=
+
+Name: com/hp/ilo2/intgapp/green.gif
+sha-256-Digest: M2qSHkDFqkoH0EdXud4t3wNvjfMVr1QwTlwtnl8OY7Y=
+
+Name: com/hp/ilo2/virtdevs/CreateImage.class
+sha-256-Digest: FUEOVhNuNYXYODez0vSHk0N76AO5le2/2WocciRuKrk=
+
+Name: com/hp/ilo2/virtdevs/VErrorDialog.class
+sha-256-Digest: pRE07UGHoHqk/fn4Z4DeFKf9xH2pylv7n2eUBK2LCm4=
+
+Name: com/hp/ilo2/virtdevs/SCSIFloppy.class
+sha-256-Digest: cApnuSpwk/eZBAYiL33OUhFFqrwaoGj0BP/NlJewytU=
+
+Name: com/hp/ilo2/remcons/images/UnProtectFormHS.png
+sha-256-Digest: hQn+niU+saKcXvlVza6s/iw2jJX4UHvgbBmQnrShNz8=
+
+Name: com/hp/ilo2/remcons/VSeizeWaitDialog$szWaitTimerListener.class
+sha-256-Digest: qEX2E2V8MdrI27I2RhZ/M69HONJgipbmmrUNvLabjU4=
+
+Name: com/hp/ilo2/remcons/images/Image_File.png
+sha-256-Digest: Rdpbw64JRHBGgYiIcNNtDnGhijSpXLpXe3gjb38P1kY=
+
+Name: com/hp/ilo2/remcons/HpqKbHook-x86-linux-32
+sha-256-Digest: hWV+57vO5Z0TOFnh035UPQ1xNmAcxTcxlH/lQq47/ic=
+
+Name: com/hp/ilo2/remcons/VMD5.class
+sha-256-Digest: VuhymWi0K5+DTfQBg40IXDVxj/SDCRFxtitEcFkdNyM=
+
+Name: com/hp/ilo2/intgapp/locinfo.class
+sha-256-Digest: zVQ1E7nkaqeu0iEc7VWvl2h4Po+QYa2wrbdiaXbDkJQ=
+
+Name: com/hp/ilo2/remcons/images/Warning.png
+sha-256-Digest: p9uMS9Rh0JKoMqoTqOdZYaghEd4oBhrn9u5RJDd1Gfo=
+
+Name: com/hp/ilo2/remcons/MouseSyncListener.class
+sha-256-Digest: Et2DCrax6jCrdwUNlwpN/N7dVqrPfDNd1MUUZfJ/ObU=
+
+Name: com/hp/ilo2/remcons/cmd.class
+sha-256-Digest: pmNThlzuNxzzAXuhzJbRdWDrMhXL8B1Z2DpVUW+SeS8=
+
+Name: com/hp/ilo2/remcons/images/FloppyDisk.png
+sha-256-Digest: jjLyGiVT6vIshaUJ5+MW/Uf2MNdOBxS0oOse+1FqDbQ=
+
+Name: com/hp/ilo2/virtdevs/cdstop.gif
+sha-256-Digest: WOlrmTv65JopXrxeRsjSDy6Trzc4bbjcVZ/O4jkUpKU=
+
+Name: com/hp/ilo2/remcons/remcons$2.class
+sha-256-Digest: ZOnbOuSgIBw3/A2T3c5JEOjP62fhO1o7uhQg/Xa40LA=
+
+Name: com/hp/ilo2/remcons/images/green.gif
+sha-256-Digest: OB/ZFeNFOZdZw3xJuzId/P/RDTXJYFTG3r9WGJmlez4=
+
+Name: com/hp/ilo2/remcons/telnet$statusUpdateTimer.class
+sha-256-Digest: VMWJ36Ovi8Hg3jQ3TAh+hccq0CzFyZwz4gDjOCGgIbg=
+
+Name: com/hp/ilo2/virtdevs/cpqma-x86-linux-64
+sha-256-Digest: ugN5YuIIHDLsjQ1DTo4sPfiD6JKnapRCQF87TGVLHwU=
+
+Name: com/hp/ilo2/remcons/OkCancelDialog.class
+sha-256-Digest: j6uzJsBVw0wshklvDcDErXbinjwkD3BIyg+Dh/oJqr0=
+
+Name: com/hp/ilo2/remcons/Aes.class
+sha-256-Digest: 2jCLhcrcBmeH3MG7vmJZnCRbyC6C9e4EJbgBRBL1TlI=
+
+Name: com/hp/ilo2/remcons/images/blue.png
+sha-256-Digest: cXFxMOIYOfdg6fA99DHk3oLfX0WLdQwezbZxQQ55A14=
+
+Name: com/hp/ilo2/remcons/images/blank_cd.png
+sha-256-Digest: wWaK4hjQn2/pIdfVJpXuMBzg6aKxWr24h0gQG9QI8To=
+
+Name: com/hp/ilo2/virtdevs/fistart.gif
+sha-256-Digest: sV3Kh39ovvpcKSfT1XSCeRjtGZZ/7O+scFuseLPfjB0=
+
+Name: com/hp/ilo2/virtdevs/virtdevs$1.class
+sha-256-Digest: 84J4xys+FC1vcb/1WwZ2PsCUPm0PBJdhjkmBj2wT/EY=
+
+Name: com/hp/ilo2/remcons/remcons.class
+sha-256-Digest: y24dc8xj+oNUAeQZ54YIfnayuvV9uMQCG6PBSyVF+h8=
+
+Name: com/hp/ilo2/remcons/images/press.png
+sha-256-Digest: ixBbG7GMjqsWcB9WzIjG9RbY8LZj2nXvvMpOHqenb4E=
+
+Name: com/hp/ilo2/remcons/RC4.class
+sha-256-Digest: 7psNarJ96y6k2tyzAmSsFYX5jxSgRT4w1AAaxMvnYq4=
+
+Name: com/hp/ilo2/remcons/TimerListener.class
+sha-256-Digest: BGSWkMdJ1/E84BRtlHmBPTDeErxF3//XtWUJhPG2aOI=
+
+Name: com/hp/ilo2/remcons/HpqKbHook-x86-linux-64
+sha-256-Digest: fyEK7UNDa1iV/2ql2VIckeToLmw6YXGJnpF4xNe2Sn8=
+
+Name: com/hp/ilo2/virtdevs/cpqma-x86-win32
+sha-256-Digest: Xvcr19LynwetmFXy4kyNE8oIhNZGbt2Hb2EQoUKDemg=
+
+Name: com/hp/ilo2/remcons/images/hold.png
+sha-256-Digest: /QqhCSN1KJn6d869HKvrH/opCFHp7ujYud9LHARz9mU=
+
+Name: com/hp/ilo2/virtdevs/ReplyHeader.class
+sha-256-Digest: 9gyUTUSj937+jx6edvjpjsIfcGdbARtIqxWQbCF9leU=
+
+Name: com/hp/ilo2/remcons/images/pwr.png
+sha-256-Digest: w0FZWRIg3/gcAlXXCOvnQ7ZIB+4UkqoLXP1AzKhpIyQ=
+
+Name: com/hp/ilo2/remcons/LocaleTranslator.class
+sha-256-Digest: ZFSuT4bVLuS4VZgznUwLuvvaaStljASTf4DHpaotEFA=
+
+Name: com/hp/ilo2/virtdevs/Connection.class
+sha-256-Digest: CAXKgKamzNLpqCbewe/WrVvgUmzYHyZi+bKehXVUt/E=
+
+Name: com/hp/ilo2/virtdevs/SCSIcdrom.class
+sha-256-Digest: 5ZDf5KOd8qdi9oOzkzxfIKKguPb5ry3mGq5+gqnATNA=
+
+Name: com/hp/ilo2/virtdevs/VFileDialog.class
+sha-256-Digest: AcXK9wytPVHOOdAMoD+6x9QMN4MpUj+oyj0VHrIHJFs=
+
+Name: com/hp/ilo2/remcons/images/pwr_off.png
+sha-256-Digest: asW/QIbpBix6LTHFRyJINW7C8tm/5xXYznAFdR6bl54=
+
+Name: com/hp/ilo2/remcons/images/coldboot.png
+sha-256-Digest: Oj5ROMRpg6U89kD7pvs+IB8EbApjHvD2ZamoBoBgXKI=
+
+Name: com/hp/ilo2/remcons/images/Keyboard.png
+sha-256-Digest: kpjyZNlTHT7ip4cqMjhW/3p4HBsqbHY/VTjvv9MqLTE=
+
+Name: com/hp/ilo2/remcons/MouseSync.class
+sha-256-Digest: mo4dt7vOtmjRu6YHeOqrkmyfdDLXUZVsL4G4Tf03AYU=
+
+Name: com/hp/ilo2/remcons/HpqKbHook-x86-win32
+sha-256-Digest: 978aonBeaeYKFNN/zKn6llCxyaZZw/EkpC11EUXLXng=
+
+Name: com/hp/ilo2/virtdevs/SCSI.class
+sha-256-Digest: 5RnmYDA8fT/orVT6GqxK4OkPrr+InI/qRmeKh6EgXo4=
+
+Name: com/hp/ilo2/remcons/images/red.png
+sha-256-Digest: QeSAA01hkXVfjBx3d3ODBGyZxalJPnNklB2AYATCftY=
+
+Name: com/hp/ilo2/virtdevs/VProgressBar.class
+sha-256-Digest: XsAx6SnhKjiIobdmSQfPJR0N/AXt9600tJsW3R726sU=
+
+Name: com/hp/ilo2/remcons/dvcwin.class
+sha-256-Digest: 5BjhaGzJqbPGSRIe7l5yP1XpOaE7iVzLuwMTKTIoUZA=
+
+Name: com/hp/ilo2/intgapp/jirc_strings.xml
+sha-256-Digest: 97ibzPxreWthGMntsur0Xz0qy7MgsKHvLxZq4PYkNHM=
+
+Name: com/hp/ilo2/remcons/remcons$1.class
+sha-256-Digest: m4H2jx5hGfUFT7IoilFbh8VToRZPwIEHbxvlz1E3PWs=
+
+Name: com/hp/ilo2/remcons/remcons$4.class
+sha-256-Digest: L8wTDXA61kUGrfLCXAvqmIMYyUwM6+Y99DBi+hdf8oo=
+
+Name: com/hp/ilo2/virtdevs/active.gif
+sha-256-Digest: lKBboBoTQOvp/+3cXyXoZE3XjUZkUl7y5qdfGJMZV9c=
+
+Name: com/hp/ilo2/intgapp/intgapp.class
+sha-256-Digest: HkG/2mqeDUNi6IqYTZoHfQ2oDqVWOixk7MIwCfwGPAI=
+
+Name: com/hp/ilo2/remcons/images/hp_logo.png
+sha-256-Digest: CsCsP+fMp8e8MXaFVbL1Qb1Lhb3fHs2wtFa24uXDe5k=
+
+Name: com/hp/ilo2/remcons/VSeizeWaitDialog.class
+sha-256-Digest: h2y+Ppmg15gNPvWpWlRT4wWEMp7u7VGFZv2Z0qogaqI=
+
+Name: com/hp/ilo2/remcons/hotKeysDialog$1.class
+sha-256-Digest: MmnBddkTNdIH0dBkiLH8ZMNbhJKdyhoYOwEjFisoivg=
+
+Name: com/hp/ilo2/remcons/cim.class
+sha-256-Digest: hXErTtI4mCWKrXaxXIEsS6wuY9WRkX2hejbrYMMpbqI=
+
+Name: com/hp/ilo2/remcons/images/usb.png
+sha-256-Digest: bHizx6RoLbFTyZXZ7wiSn+RNbeTmBuu6NVvb+KXSzqk=
+
+Name: com/hp/ilo2/remcons/remcons$keyBoardTimerListener.class
+sha-256-Digest: 0v/5kL4ybEXwMX+3adqKP6us8Plv2uCf9auMlSkuMNI=
+
+Name: com/hp/ilo2/virtdevs/cpqma-x86-win64
+sha-256-Digest: xufeA9mg+tdyEHRMfDlQl3hpi6gweU22UDxE+kuRVFI=
+
+Name: com/hp/ilo2/remcons/HpqKbHook-x86-win64
+sha-256-Digest: glKPraqBwioV8632osIm1uFX2Hh6btsYA5+ALWJYddk=
+
+Name: com/hp/ilo2/virtdevs/D.class
+sha-256-Digest: Q/R3guJPyEBBteVJOFdYacbwHkr1EqOfsfjslcryDMg=
+
+Name: com/hp/ilo2/remcons/KeyboardHook.class
+sha-256-Digest: e6Bpsg31E6Ubq+czChIWUmbpX1xgK70EptWtnO1ivHc=
+
+Name: com/hp/ilo2/virtdevs/MediaAccess.class
+sha-256-Digest: 8OASQHTtj40tmPuI35iZQ+p/lz+bA6cxWszlzUCflnI=
+
+Name: com/hp/ilo2/remcons/images/Folder.png
+sha-256-Digest: LUoOtO6o0RWynyFZWfSC9DW9zn3mn4NXeYe5Jli4QHY=
+
+Name: com/hp/ilo2/remcons/images/irc.png
+sha-256-Digest: 8U0vXtBjmHUgduLau18YCpIeHWIrLM7QqRLk3Wx3qV4=
+
+Name: com/hp/ilo2/virtdevs/inactive.gif
+sha-256-Digest: FArve3th6FQfwiwC/dSO2JoRD23LLQS1syRvzu9iyPg=
+
+Name: com/hp/ilo2/virtdevs/fdstop.gif
+sha-256-Digest: 8jzRtdjzgW81heu1ZSHDcy1luwUNLs8cs6o6bcYOqEE=
+
+Name: com/hp/ilo2/remcons/remcons$3.class
+sha-256-Digest: X5bF2ClEhpHltwpPQpImqrGea+ldJSO1jZYzVRAtesg=
+
+Name: com/hp/ilo2/virtdevs/virtdevs.class
+sha-256-Digest: 13PRK2tw2tu+44XapY0BawjY8G/KJjd0J3MN9XBeW6g=
+
+Name: com/hp/ilo2/virtdevs/VMD5.class
+sha-256-Digest: axyKEGqwep/ymM0lsNE+dAX9QZh1go/x+3xOUqBcBII=
+
+Name: com/hp/ilo2/remcons/aboutJircDialog.class
+sha-256-Digest: EUmp2xW+DmyNc8Qri3p2aMGcRPDDdMrEtFyRtrAv5EY=
+
+Name: com/hp/ilo2/virtdevs/fdstart.gif
+sha-256-Digest: OZd8LJyDVmXQkbrOhr1J/7cTNU9YoGKsVyo21tUvDGA=
+
+Name: com/hp/ilo2/remcons/images/CD_Drive.png
+sha-256-Digest: rDpX0syr9OB+jihGEdjgkwnjPrErLgbbZOICbe7p7ew=
+
+Name: com/hp/ilo2/intgapp/intgapp$WindowCloser.class
+sha-256-Digest: NRW6Zs91z9CLGJ/KZx4reGc+xk+gSwjbS+XVACYt8pg=
+
+Name: com/hp/ilo2/virtdevs/SCSIcdimage.class
+sha-256-Digest: qE4/Z3y7sDcQTZgidEwdWmrmPT25n21QLLC793jwSTw=
+
